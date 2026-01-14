@@ -16,6 +16,7 @@ Flame is self-hosted startpage for your server. Its design is inspired (heavily)
 - 🐳 Docker integration to automatically pick and add apps based on their labels
 
 ## Installation
+[![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates?template=https://github.com/pawelmalak/flame)
 
 ### With Docker (recommended)
 
